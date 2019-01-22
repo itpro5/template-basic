@@ -1,2 +1,2 @@
 # template-basic
-Basic template web page
+A template project with CV page only
